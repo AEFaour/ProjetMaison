@@ -1,0 +1,122 @@
+.container {
+    margin: 0 auto;
+    width:100% ;
+}
+/*styles menu.blade.php */
+nav {
+    font-family: "Times New Roman", Times, serif;
+    background-color: red;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 2rem;
+    text-shadow: 0.1rem 0.1rem white;
+}
+.navbar-brand {
+    font-family: "Times New Roman", Times, serif;
+    background-color: red;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 2rem;
+    text-shadow: 0.1rem 0.1rem white;
+}
+
+/*styles show.blade.php */
+
+.col-lg-6  {
+
+    margin: 1rem;
+}
+
+.col-sm-2 img {
+
+    margin: 1rem;
+}
+
+.col-lg-2 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 24px;
+}
+
+.description {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 24px;
+}
+
+/*styles boutons back index create edite */
+
+.btn {
+
+    height: 2rem;
+    width: 10rem;
+    
+}
+
+.btn-primary {
+
+    height: 2.8rem;
+    width: 12rem;
+    margin: 5rem;
+}
+ 
+/*styles create.blade.php */
+
+.form-group {
+
+    margin-top: 1rem;
+   
+}
+
+.form-control {
+
+    width : 32rem;
+    
+}
+
+.input-file  {
+
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.col-md-6 h1, h2 {
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+form {
+    margin-left: 5rem;
+}
+
+.input-radio {
+    margin-top: 5rem;
+}
+
+/*styles frony index et show */
+
+.article-expo {
+
+    width: 22rem;
+    
+     
+}
+.description {
+
+    margin-top: 2rem; 
+    font-family: "Times New Roman", Times, serif;
+    text-align: justify;
+}
+
+.col-sm-2 img {
+
+
+    width: 10rem;
+    height: 10rem;
+
+}
+.col-lg-6 img {
+
+    width: 25rem;
+    height: 25rem;
+
+}
